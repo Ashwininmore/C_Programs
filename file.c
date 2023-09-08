@@ -14,7 +14,7 @@ void main()
     // read file
     fp=fopen("f1.txt","r");
     char i;
-    while(i=fgetc(fp)!=-1){
+    while(i=fgetc(fp)!=-1){ //-1/EOF means End of file
         printf("%c",i);
     }
     fclose(fp);
