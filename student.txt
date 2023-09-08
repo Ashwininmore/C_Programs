@@ -1,0 +1,6 @@
+
+Name: Ashu 
+Marks=90 
+
+Name: swami 
+Marks=78 
